@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.seleniumhq.selenium:selenium-api:2.53.0" type="repository">
+    <properties maven-id="org.seleniumhq.selenium:selenium-api:2.53.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.0/selenium-api-2.53.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
